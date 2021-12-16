@@ -124,8 +124,8 @@ body {
 }
 
 img.responsive-size {
-    height: 130%;
-    width: 60%;
+    height: 100%;
+    width: 100%;
 }
 
 img.responsive-size-3 {
