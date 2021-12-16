@@ -1,0 +1,70 @@
+﻿@page
+@model PortfolioWebsite.Pages.CBWebAppModel
+@{
+}
+<div class="text-center">
+    <h2 class="margin-15">Commerce Bank Web Application</h2>
+</div>
+<hr>
+<div class="row">
+    <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/cbwebapp/cbtransactions.png">
+    <div class="col text-center round-corners left-block bg-kinda-dark">
+        <h1 class="display-4" style="font-size: 2rem; margin-top:10px; margin-bottom: 20px">Front-End</h1>
+        <hr>
+        <ul style="margin-top: 10px;" class="description">
+            <li style="margin-bottom: 20px;">
+                Implemented using ASP.NET Razor Pages. Hosted on Microsoft Azure.
+            </li>
+            <li style="margin-bottom: 20px;">
+                Featured classic Commerce Bank color palette.
+            </li>
+            <li style="margin-bottom: 20px;">
+                Contained pages to view transaction history, notifications, and adjust user settings.
+            </li>
+            <li>
+                Rounded corners with happy images shown throughout.
+            </li>
+        </ul>
+    </div>
+</div>
+<hr>
+<div class="row">
+    <div class="col text-center round-corners left-block bg-kinda-dark">
+        <h1 class="display-4" style="font-size: 2rem; margin-top:10px; margin-bottom: 20px">Back-End</h1>
+        <hr>
+        <ul style="margin-top: 20px;" class="description">
+            <li style="margin-bottom: 30px;">
+                Implemented database using ASP.NET models to dynamically build a SQL database hosted on Microsoft Azure. 
+            </li>
+            <li style="margin-bottom: 30px;">
+                Developed notification rules using polymorphism after inheriting many notification rule classes from a general purpose one.
+            </li>
+            <li style="margin-bottom: 30px;">
+                In the same post routine where notifications are sent, email notifications were added using SendGrid Email Services.
+            </li>
+            <li>
+                Used Microsoft Identity framework to secure user information and to maintain our user login and registration.
+            </li>
+        </ul>
+    </div>
+    <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/cbwebapp/cbemailnotif.png">
+</div>
+<hr>
+<div class="row">
+    <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/cbwebapp/cdunit.png">
+    <div class="col text-center round-corners left-block bg-kinda-dark">
+        <h1 class="display-4" style="font-size: 2rem; margin-top:10px; margin-bottom: 20px">Quality Assurance</h1>
+        <hr>
+        <ul style="margin-top: 20px;" class="description">
+            <li style="margin-bottom: 30px;">
+                Unit testing was performed using MSTest.
+            </li>
+            <li style="margin-bottom: 30px;">
+                Tested very general methods going to and from our database context to ensure consistent data interactions.
+            </li>
+            <li>
+                Temporary databases were used here using SQLite.
+            </li>
+        </ul>
+    </div>
+</div>

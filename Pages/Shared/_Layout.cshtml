@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alex Norris: Software Engineer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="bg-black text-white">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-kinda-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="text-gray navbar-brand " asp-area="" asp-page="/Index">Alex Norris</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item nav-mobile">
+                            <a class="nav-link  text-white" asp-page="/Resume">CV/Resume</a>
+                        </li>
+                        <li class="nav-item nav-mobile">
+                            <a class="nav-link  text-white" asp-page="/Awards">Awards</a>
+                        </li>
+                        <li class="nav-item nav-mobile">
+                            <a class="nav-link  text-white" asp-page="/Contact">Contact</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li style="margin-right:15px">
+                            <form>
+                                <a href="https://github.com/AlexJNorris">
+                                    <img src="/GitHub_Logo_White.png" height="35px" width="90px">
+                                </a>
+                            </form>
+                        </li>
+                        <li class="nav-mobile">
+                            <form>
+                                <a  href="https://www.linkedin.com/in/alex-norris-09aa9510a/">
+                                    <img src="/LI-In-Bug.png" height="32px" width="40px">
+                                </a>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted bg-kinda-dark">
+        <div class="container">
+            &copy; 2021 - Alex Norris' Portfolio Website
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

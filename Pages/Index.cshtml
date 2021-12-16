@@ -1,0 +1,65 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="">
+    <div class="row">
+        <div class="col-sm-3" style="margin:15px">
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFR4G2YZJgCrw/profile-displayphoto-shrink_800_800/0/1574061228339?e=1645056000&v=beta&t=GGVVNcXHUJqOdrOnOicMI-fajH8b9jJLtD-oyZGgj_c" class="round-corners" height="100%" width="100%">
+        </div>
+        <div class="col border border-dark bg-kinda-dark text-center round-corners" style="margin:15px">
+            <h2 class="margin-15">Nice to meet you!</h2>
+            <hr>
+            <div style="padding:10px">
+                <p>
+                    I am an aspiring software engineer currently working as an undergraduate research assistant in the Unmanned Systems Lab located at the University of Missouri - Kansas City.
+                </p>
+                <p>
+                    Over my coding journey, I have become familiar with a plethora of frameworks such as Azure, ASP.NET, Angular, and Unity Game Engine.
+                </p>
+                <p>
+                    Feel free to explore my projects below and contact me if you have any questions!
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/cbwebapp/cbwelcome.png">
+        <div class="col text-center round-corners left-block bg-kinda-dark">
+            <h1 class="display-4" style="font-size: 2rem; margin-top:20px; margin-bottom: 20px">Commerce Bank Web App</h1>
+            <hr>
+            <p style="margin-top: 50px;">
+                For my senior capstone, I was a software engineer and project manager for a web application project sponsored by Commerce Bank.  With my group, we used ASP.NET Razor Pages to build up our application, using ASP.NET models to build our database dynamically, Microsoft Identity for user management, and Microsoft Azure to host our application online.
+            </p>
+            <a href="/CBWebApp" class="btn btn-primary" style="margin-top: 40px">Learn More</a>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col text-center round-corners left-block bg-kinda-dark">
+            <h1 class="display-4" style="font-size: 2rem; margin-top:20px; margin-bottom: 20px">Autonomous Drone Swarm</h1>
+            <hr>
+            <p style="margin-top: 50px;">
+                I developed autonomous flight decision algorithms to run on drone companion computers using the
+                DroneKit-Python library. In support of this project I also designed an IoT network using the XBee Python API to broadcast commands by RF
+                modules.
+            </p>
+            <a href="/Swarm" class="btn btn-primary" style="margin-top: 40px">Watch Demonstration</a>
+        </div>
+        <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/swarm.png">
+    </div>
+    <hr>
+    <div class="row">
+        <img class="img-responsive responsive-size" style="border-radius:25px; margin:15px;" src="/unity.png">
+        <div class="col text-center round-corners left-block bg-kinda-dark">
+            <h1 class="display-4" style="font-size: 2rem; margin-top:20px; margin-bottom: 20px">C# Drone Simulation Library</h1>
+            <hr>
+            <p style="margin-top: 30px;">
+                I developed a C#-based simulation library revolving around drone flight routines using .NET Framework.  Using this setup, I ported the library to Unity for visualization and customization of flight scenarios.
+            </p>
+        </div>
+    </div>
+</div>
