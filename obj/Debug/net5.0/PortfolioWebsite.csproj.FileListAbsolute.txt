@@ -43,3 +43,4 @@ C:\Users\alexn\source\repos\PortfolioWebsite\obj\Debug\net5.0\Razor\Pages\Contac
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Debug\net5.0\Razor\Pages\Awards.cshtml.g.cs
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Debug\net5.0\Razor\Pages\Swarm.cshtml.g.cs
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Debug\net5.0\Razor\Pages\CBWebApp.cshtml.g.cs
+C:\Users\alexn\source\repos\PortfolioWebsite\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
