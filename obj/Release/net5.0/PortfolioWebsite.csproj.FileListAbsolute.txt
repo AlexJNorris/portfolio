@@ -43,3 +43,4 @@ C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\ref\PortfolioWeb
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PortfolioWebsite.pdb
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PortfolioWebsite.genruntimeconfig.cache
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PortfolioWebsite.csproj.CopyComplete
+C:\Users\alexn\source\repos\PortfolioWebsite\bin\Release\net5.0\aws-beanstalk-tools-defaults.json

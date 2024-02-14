@@ -1,5 +1,5 @@
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\PortfolioWebsite.exe
-C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\AlexNorrisResume1221.pdf
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\AlexNorrisResumeNovember2023.pdf
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\cbwebapp\cbdatabase.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\cbwebapp\cbemailnotif.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\cbwebapp\cbnotif.png
@@ -10,6 +10,7 @@ C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwro
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\favicon.ico
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\GitHub_Logo_White.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\hack-a-roo_certificate.pdf
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\Jenkins.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\js\site.js
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\LI-In-Bug.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -45,12 +46,16 @@ C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwro
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\logo-jenkins.jpg
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\portfolioPhoto.jpg
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\resume_logo.png
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\StrategioCert.pdf
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\swarm.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\swarm_demo.mp4
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\wwwroot\unity.png
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\aws-beanstalk-tools-defaults.json
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\PortfolioWebsite.dll
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\PortfolioWebsite.deps.json
 C:\Users\alexn\source\repos\PortfolioWebsite\obj\Release\net5.0\PubTmp\Out\PortfolioWebsite.runtimeconfig.json
